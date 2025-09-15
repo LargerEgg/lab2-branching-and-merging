@@ -4,9 +4,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class DataTypesTest {
 
     @Test
-    /**
-     * Test that DataTypes.sum returns the correct value for
-     * the sum from 1 to 1 million.
+    /*
+      Test that DataTypes.sum returns the correct value for
+      the sum from 1 to 1 million.
      */
     public void largeSumTest() {
 
